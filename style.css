@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #c290db;
+    width: 100vw;
+    height: 200px;
+    text-align: center;
+    padding-top: 75px;
+}
+
+.student {
+    background-color: azure;
+    font-size: larger;
+    color: #0a3991;
+    padding: 10px;
+}
+
+.grade {
+    color: #b36e08;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.desc {
+    color: green
+}
+
+.event {
+    padding: 20px;
+    background-color: burlywood;
+}
+
+button {
+    padding: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: aquamarine;
+    margin: 20px;
+}
+
+button:hover {
+    background-color: darksalmon;
+}
+
+form {
+    padding: 20px;
+    background-color: #88a6c0;
+}
+
+p {
+    font-size: x-large;
+}
+
+.correct {
+    color: green
+}
+
+.incorrect {
+    color: red
+}
